@@ -1,0 +1,4 @@
+-Iglad/include
+-lglfw3
+-lX11
+-lm
